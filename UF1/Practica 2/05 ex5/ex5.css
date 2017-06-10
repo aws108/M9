@@ -1,0 +1,40 @@
+
+
+#titol{color:#00FF89;}
+#titol1 strong{color:red;}
+#titol1 span{color:orange;}
+
+#subtitol {color:blue;}
+#subtitol1 a{color:red;}
+#subtitol1 em{color:blue;
+			font-style: italic;}
+#subtitol1 span{color:purple;}
+
+caption {color:blue;}
+
+.especial {color:orange;}
+.columna{color:red;}
+
+table{border-collapse:collapse;
+		border: black 1px solid;}
+
+td{border-collapse:collapse;
+		border: black 1px solid;}
+
+th{border-collapse:collapse;
+		border: black 1px solid;}
+
+.fila1{color:orange;}
+.fila2{color: red;}
+
+#subfila1{color:green;}
+#subfila2{color:green;}
+#subfila2 em{color:green; font-style:italic;}
+
+.subfila3{color:green;}
+.subfila3 strong{color:orange;}
+.subfila4{color:green;}
+
+.texto{color:grey;}
+.texto span{color: purple;}
+.texto a{color:green;}

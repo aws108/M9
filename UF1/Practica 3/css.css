@@ -1,0 +1,57 @@
+
+h2{text-align:center;}
+
+ul{list-style:none;}
+
+.linea{margin-left:28%;
+		margin-right:30%;}
+
+li a {
+    display: inline;
+    margin-left:10%;
+    text-decoration:none;
+    color:#31C631;
+}
+
+#menu ul{margin-left:0;
+	padding-left: 0;
+	color:#31C631;
+}
+#menu ul li{display:inline;
+			list-style-type:none;
+			}
+
+.navigator{margin-left:22%;
+			
+		}
+
+.footer{text-align: center;
+		position: relative;
+		margin-top: -60px;
+        height: 80px;
+        padding:5px 0px;
+        clear: both;}
+
+.footer a {
+    text-decoration:none;
+    color:#31C631;}
+
+.contenido{margin-left: 25%;}
+
+.news{
+	padding-right:5%;
+	width: 250px;   /*anchura*/
+	height: 10%; /*altura*/
+	margin: auto;
+	float:left;
+	}	  
+	 
+
+.anuncios{padding-left: 3%;
+			width: 300px;
+			height: 10%;
+			margin: auto;
+			float:left;
+			text-align:justify;
+			}
+

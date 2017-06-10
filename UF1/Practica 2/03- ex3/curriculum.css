@@ -1,0 +1,19 @@
+
+h1{font-family:Georgia;
+	color:blue;
+	background-color: #A4A4A4;
+	font-weight: bold;
+	font-size: 24px;
+	letter-spacing: 1.6em;
+	word-spacing: 2em;
+	text-align: center;}
+
+h2{font-family:Georgia;
+	color: #610B0B;
+	font-size:18px;
+	letter-spacing:1.4em;
+	}
+
+p{font-family:arial;
+	font-size: 24px;
+}
